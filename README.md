@@ -16,7 +16,7 @@ Most sensor-based applications use accelerometer and gyroscope so bring up of th
 
 ### Architecture Diagram
 
-![Architecture Diagram](Architecture_diagram.png)
+![Architecture Diagram](docs/architecture_diagram.PNG)
 
 ### Streaming Application
 
