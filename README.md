@@ -18,18 +18,6 @@ Most sensor-based applications use accelerometer and gyroscope so bring up of th
 
 ![Architecture Diagram](docs/architecture_diagram.PNG)
 
-### Streaming Application
-
-TBD.
-
-### Software Device
-
-TBD. Use the [SensorsComboDriver](https://github.com/microsoft/Windows-driver-samples/tree/master/sensors/SensorsComboDriver) sample and adapt it to stream sensor data coming from the streaming protocol.
-
-### Streaming Protocol
-
-TBD.
-
 ## Demo
 
 Please see this project as a demo: https://github.com/BluBambu/RemoteMultiplayerTennis - users can use their phones to play virtual tennis.
